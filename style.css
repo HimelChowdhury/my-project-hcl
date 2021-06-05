@@ -1,0 +1,98 @@
+body{
+    
+}
+.cobi{
+    height: 30px;
+    width: 100px;
+}
+.contailer{
+    margin: 100px;
+    
+}
+
+#cobi2{
+    height: 300px;
+    width: 150px;
+}
+#cobi3{
+    height: 300px;
+    width: 50px;
+}
+.part{
+    background-color: khaki;
+    
+    padding: 40px;
+    border-radius: 50px;
+  
+}
+.tk{
+    color: rgb(248, 19, 3);
+}
+.bn{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 8px;
+    border-radius: 5px;
+}
+.bag{
+    height: 80px;
+    width: 85px;
+}
+.cat1{
+    background-color: yellow;
+}
+.cat2{
+    background-color: violet;
+}
+.cat3{
+    background-color: tomato;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.cat4{
+background-color:lightgoldenrodyellow;
+}
+.cat5{
+background-color:khaki;
+}
+.cat6{
+background-color: cyan;
+}
+.cat4, .cat5, .cat6{
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+
+}
+.price{
+    color: deeppink;
+}
+.pname{
+    color: brown;
+}
+.card-img-top{
+    width: 300px;
+    height: 200px;
+
+}
+.card{
+    margin: 10px;
+    box-shadow: 5px 5px 5px 5px rgb(190, 185, 185);
+    border: none;
+}
+.last{
+    background-color: rgb(204, 131, 131);
+    margin: 100px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 25px;
+    
+}
